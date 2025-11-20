@@ -1,0 +1,11 @@
+# PromptX 本地状态文件（不应提交）
+.promptx/pouch.json
+
+# 其他常见的忽略项
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.env
+.env.local
+
