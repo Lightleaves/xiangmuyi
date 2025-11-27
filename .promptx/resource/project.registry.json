@@ -4,14 +4,358 @@
   "metadata": {
     "version": "2.0.0",
     "description": "project 级资源注册表",
-    "createdAt": "2025-11-21T15:22:33.482Z",
-    "updatedAt": "2025-11-21T15:22:33.483Z",
-    "resourceCount": 0
+    "createdAt": "2025-11-27T02:08:51.367Z",
+    "updatedAt": "2025-11-27T02:08:51.387Z",
+    "resourceCount": 24
   },
-  "resources": [],
+  "resources": [
+    {
+      "id": "strategy",
+      "source": "project",
+      "protocol": "execution",
+      "name": "Strategy 执行模式",
+      "description": "执行模式，定义具体的行为模式",
+      "reference": "@project://.promptx/resource/xiaoli/execution/strategy.execution.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.371Z",
+        "updatedAt": "2025-11-27T02:08:51.371Z",
+        "scannedAt": "2025-11-27T02:08:51.371Z",
+        "path": "xiaoli/execution/strategy.execution.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter1",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter1 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter1.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.372Z",
+        "updatedAt": "2025-11-27T02:08:51.372Z",
+        "scannedAt": "2025-11-27T02:08:51.372Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter1.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter10-12",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter10 12 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter10-12.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.373Z",
+        "updatedAt": "2025-11-27T02:08:51.373Z",
+        "scannedAt": "2025-11-27T02:08:51.373Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter10-12.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter13-15",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter13 15 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter13-15.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.374Z",
+        "updatedAt": "2025-11-27T02:08:51.374Z",
+        "scannedAt": "2025-11-27T02:08:51.374Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter13-15.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter16-17",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter16 17 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter16-17.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.374Z",
+        "updatedAt": "2025-11-27T02:08:51.374Z",
+        "scannedAt": "2025-11-27T02:08:51.374Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter16-17.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter18-19",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter18 19 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter18-19.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.375Z",
+        "updatedAt": "2025-11-27T02:08:51.375Z",
+        "scannedAt": "2025-11-27T02:08:51.375Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter18-19.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter2",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter2 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter2.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.376Z",
+        "updatedAt": "2025-11-27T02:08:51.376Z",
+        "scannedAt": "2025-11-27T02:08:51.376Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter2.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter20-21",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter20 21 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter20-21.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.377Z",
+        "updatedAt": "2025-11-27T02:08:51.377Z",
+        "scannedAt": "2025-11-27T02:08:51.377Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter20-21.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter22",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter22 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter22.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.377Z",
+        "updatedAt": "2025-11-27T02:08:51.377Z",
+        "scannedAt": "2025-11-27T02:08:51.377Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter22.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter23",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter23 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter23.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.377Z",
+        "updatedAt": "2025-11-27T02:08:51.377Z",
+        "scannedAt": "2025-11-27T02:08:51.377Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter23.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter24-25",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter24 25 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter24-25.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.378Z",
+        "updatedAt": "2025-11-27T02:08:51.378Z",
+        "scannedAt": "2025-11-27T02:08:51.378Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter24-25.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter26",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter26 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter26.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.379Z",
+        "updatedAt": "2025-11-27T02:08:51.379Z",
+        "scannedAt": "2025-11-27T02:08:51.379Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter26.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter27",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter27 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter27.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.380Z",
+        "updatedAt": "2025-11-27T02:08:51.380Z",
+        "scannedAt": "2025-11-27T02:08:51.380Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter27.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter28-30",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter28 30 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter28-30.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.380Z",
+        "updatedAt": "2025-11-27T02:08:51.380Z",
+        "scannedAt": "2025-11-27T02:08:51.380Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter28-30.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter3",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter3 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter3.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.381Z",
+        "updatedAt": "2025-11-27T02:08:51.381Z",
+        "scannedAt": "2025-11-27T02:08:51.381Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter3.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter4",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter4 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter4.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.381Z",
+        "updatedAt": "2025-11-27T02:08:51.381Z",
+        "scannedAt": "2025-11-27T02:08:51.381Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter4.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter5",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter5 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter5.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.382Z",
+        "updatedAt": "2025-11-27T02:08:51.382Z",
+        "scannedAt": "2025-11-27T02:08:51.382Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter5.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter6",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter6 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter6.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.382Z",
+        "updatedAt": "2025-11-27T02:08:51.382Z",
+        "scannedAt": "2025-11-27T02:08:51.382Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter6.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter7",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter7 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter7.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.383Z",
+        "updatedAt": "2025-11-27T02:08:51.383Z",
+        "scannedAt": "2025-11-27T02:08:51.383Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter7.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter8",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter8 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter8.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.383Z",
+        "updatedAt": "2025-11-27T02:08:51.383Z",
+        "scannedAt": "2025-11-27T02:08:51.383Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter8.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom-chapter9",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom Chapter9 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom-chapter9.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.384Z",
+        "updatedAt": "2025-11-27T02:08:51.384Z",
+        "scannedAt": "2025-11-27T02:08:51.384Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom-chapter9.knowledge.md"
+      }
+    },
+    {
+      "id": "xiyou-wisdom",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Xiyou Wisdom 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/xiaoli/knowledge/xiyou-wisdom.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.384Z",
+        "updatedAt": "2025-11-27T02:08:51.384Z",
+        "scannedAt": "2025-11-27T02:08:51.384Z",
+        "path": "xiaoli/knowledge/xiyou-wisdom.knowledge.md"
+      }
+    },
+    {
+      "id": "analysis",
+      "source": "project",
+      "protocol": "thought",
+      "name": "Analysis 思维模式",
+      "description": "思维模式，指导AI的思考方式",
+      "reference": "@project://.promptx/resource/xiaoli/thought/analysis.thought.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.385Z",
+        "updatedAt": "2025-11-27T02:08:51.385Z",
+        "scannedAt": "2025-11-27T02:08:51.385Z",
+        "path": "xiaoli/thought/analysis.thought.md"
+      }
+    },
+    {
+      "id": "xiaoli",
+      "source": "project",
+      "protocol": "role",
+      "name": "Xiaoli 角色",
+      "description": "专业角色，提供特定领域的专业能力",
+      "reference": "@project://.promptx/resource/xiaoli/xiaoli.role.md",
+      "metadata": {
+        "createdAt": "2025-11-27T02:08:51.386Z",
+        "updatedAt": "2025-11-27T02:08:51.386Z",
+        "scannedAt": "2025-11-27T02:08:51.386Z",
+        "path": "xiaoli/xiaoli.role.md"
+      }
+    }
+  ],
   "stats": {
-    "totalResources": 0,
-    "byProtocol": {},
-    "bySource": {}
+    "totalResources": 24,
+    "byProtocol": {
+      "execution": 1,
+      "knowledge": 21,
+      "thought": 1,
+      "role": 1
+    },
+    "bySource": {
+      "project": 24
+    }
   }
 }

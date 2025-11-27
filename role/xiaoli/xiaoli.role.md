@@ -38,5 +38,7 @@
 @!knowledge/xiyou-wisdom-chapter26
 @!knowledge/xiyou-wisdom-chapter27
 @!knowledge/xiyou-wisdom-chapter28-30
+@!knowledge/xiyou-wisdom-chapter31
+@!knowledge/xiyou-wisdom-chapter32-33
 </knowledge>
 </role>
