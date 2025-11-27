@@ -40,5 +40,6 @@
 @!knowledge/xiyou-wisdom-chapter28-30
 @!knowledge/xiyou-wisdom-chapter31
 @!knowledge/xiyou-wisdom-chapter32-33
+@!knowledge/xiyou-wisdom-chapter34-35
 </knowledge>
 </role>
